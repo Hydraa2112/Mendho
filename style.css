@@ -236,3 +236,16 @@
     color: #fff;
     font-size: 24px;
 }
+
+.imbBx {
+    height: 200px;
+    width: 150px;
+    background: url('image/Makanan khas.jpg')center no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+    transition: 0.8s;
+}
+
+.imbBx:hover {
+    translate: 0 -30px;
+}
